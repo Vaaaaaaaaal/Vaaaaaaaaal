@@ -33,8 +33,7 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Pʀᴏᴊᴇᴛs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Tech skills animation" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Tech skills animation" src="./Skills_Animation_Dark.gif">
 </picture>
 <br />
 
