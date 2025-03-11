@@ -1,5 +1,5 @@
 <!--Banner-->
-![ValentinGoux Banner Image](./banner.png)
+<!--![ValentinGoux Banner Image](./banner.png)-->
 
 <!--Night Owl image-->
 <div>
